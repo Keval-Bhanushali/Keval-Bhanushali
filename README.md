@@ -93,16 +93,16 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical) -->
+<!-- ![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bhanushali03&show_icons=true&theme=radical)](https://github.com/mr-bhanushali03)
+
+### github stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical&title_color=04d361&count_private=true&include_all_commits=true)
 
 ### Holopin Badges:-
 [![An image of @mr-bhanushali03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mr-bhanushali03)](https://holopin.io/@mr-bhanushali03)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-bhanushali03&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)  
-
-### github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical&title_color=04d361&count_private=true&include_all_commits=true)
 
 [![](https://visitcount.itsvg.in/api?id=mnamesujit&icon=5&color=1)](https://visitcount.itsvg.in)
