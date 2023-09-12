@@ -93,9 +93,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnamesujit&show_icons=true&theme=radical) -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mr-bhanushali03&theme=radical)](https://git.io/streak-stats)
+<!-- ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical) -->
 
 [![Sujit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-bhanushali03&theme=radical)](https://github.com/mr-bhanushali03/github-readme-stats)
 
