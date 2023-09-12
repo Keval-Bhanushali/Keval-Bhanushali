@@ -1,46 +1,24 @@
-<!-- Title -->
-# Hi there, I'm Keval Bhanushali 👋
+# Hi, I'm Bhanushali 👋
 
-<!-- Introduction -->
-I'm a passionate software developer from Gujarat. I love to code and create amazing software. Here are some of the things I'm passionate about:
+![Visitor Count](https://profile-counter.glitch.me/mr-bhanushali03/count.svg)
 
-- 💻 Software Development
-- 🚀 Open Source Contribution
-- 📚 Lifelong Learning
+I'm a passionate developer who loves to code and contribute to open-source projects. Here you'll find some of my work and interests.
 
-<!-- GitHub Stats -->
+- 🌱 I’m currently learning [Your Current Learning]
+- 👯 I’m looking to collaborate on [Your Preferred Collaboration Projects]
+- 🤔 I’m looking for help with [Your Preferred Help Topics]
+- 💬 Ask me about [Your Preferred Topics]
+- 📫 How to reach me: [Your Contact Information]
+
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?mr-bhanushali03=your-mr-bhanushali03&show_icons=true&count_private=true&theme=radical)
+![Bhanushali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical)
 
-<!-- Top Languages -->
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bhanushali03&layout=compact&theme=radical)
 
-<!-- Recent Blog Posts -->
-## Recent Blog Posts
+## Recent Activity
 
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post 1](https://yourblog.com/post1)
-- [Blog Post 2](https://yourblog.com/post2)
-- [Blog Post 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- Connect with Me -->
-## Connect with Me
-
-- 📫 Email: [youremail@email.com](mailto:youremail@email.com)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
-- 🐦 Twitter: [@YourTwitter](https://twitter.com/yourtwitter)
-
-<!-- GitHub Activity Graph -->
-## GitHub Activity Graph
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username" alt="Profile Views">
-</p>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
