@@ -11,7 +11,7 @@ I'm a passionate software developer from Gujarat. I love to code and create amaz
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?mr-bhanushali03=your-mr-bhanushali03&show_icons=true&count_private=true&theme=radical)
 
 <!-- Top Languages -->
 ## Top Languages
