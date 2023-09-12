@@ -93,40 +93,16 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- GitHub Stats -->
-<h3>GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+<!-- ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical) -->
 
-<!-- Most Used Languages -->
-<h3>Most Used Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bhanushali03&show_icons=true&theme=radical" alt="Most Used Languages">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bhanushali03&show_icons=true&theme=radical)](https://github.com/mr-bhanushali03)
 
-<!-- Wakatime Integration -->
-<h3>Wakatime Integration</h3>
-<p align="center">
-  <a href="https://wakatime.com/@c3296bbc-989d-48a1-bfb0-752d952f7151" target="_blank">
-    <img src="https://wakatime.com/badge/user/c3296bbc-989d-48a1-bfb0-752d952f7151.svg" alt="Wakatime Stats">
-  </a>
-</p>
+### Holopin Badges:-
+[![An image of @mr-bhanushali03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mr-bhanushali03)](https://holopin.io/@mr-bhanushali03)
 
-<!-- Holopin Badges -->
-<h3>Holopin Badges</h3>
-<p align="center">
-  [![An image of @mr-bhanushali03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mr-bhanushali03)](https://holopin.io/@mr-bhanushali03)
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-bhanushali03&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)  
 
-<!-- Activity Graph -->
-<h3>Activity Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-bhanushali03&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true" alt="Activity Graph">
-</p>
+### github stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical&title_color=04d361&count_private=true&include_all_commits=true)
 
-<!-- Visitor Count Badge -->
-<p align="center">
-  [![](https://visitcount.itsvg.in/api?id=mnamesujit&icon=5&color=1)](https://visitcount.itsvg.in)
-</p>
-
+[![](https://visitcount.itsvg.in/api?id=mnamesujit&icon=5&color=1)](https://visitcount.itsvg.in)
