@@ -1,29 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/c3296bbc-989d-48a1-bfb0-752d952f7151.svg)](https://wakatime.com/@c3296bbc-989d-48a1-bfb0-752d952f7151)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&weight=700&color=04d361&size=35&center=false&vCenter=true&width=1000&lines=Welcome!!+:%29;Hello,+My+name+is+Keval+Bhanushali;Aka+Nucleus...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&weight=700&color=04d361&size=35&center=false&vCenter=true&width=1000&lines=Welcome!!+:%29;Hello,+My+name+is+Keval+Bhanushali;mr-bhanushali03...;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&pause=1000&color=04D361&repeat=false&width=435&lines=A+Little+Bit+More+About+Me%3A-)](https://git.io/typing-svg)
-```js
-const Sujit = {
-    code: ["JavaScript", "Python", "TypeScript", "C++"],
-    askMeAbout: ["web dev", "tech", "dsa", "linux"],
-    technologies: {
-        frontEnd:{
-            js: ["ReactJs",],
-            css: ["Scss", "Tailwind CSS"],
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: [" "," "],
-        },
-        devOps: [" "," "],
-        dataBases: ["mongo", "mariaDB"],
-        misc: ["Firebase", "Socket.IO",]
-    },
-    currentFocus: "Backend Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
 <!-- architecture: ["Progressive web applications", "Single page applications"], -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -117,16 +95,16 @@ const Sujit = {
 
 <!-- ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnamesujit&show_icons=true&theme=radical) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnamesujit&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mr-bhanushali03&theme=radical)](https://git.io/streak-stats)
 
-[![Sujit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mnamesujit&theme=radical)](https://github.com/mnamesujit/github-readme-stats)
+[![Sujit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-bhanushali03&theme=radical)](https://github.com/mr-bhanushali03/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnamesujit&show_icons=true&theme=radical)](https://github.com/mnamesujit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bhanushali03&show_icons=true&theme=radical)](https://github.com/mr-bhanushali03)
 
 ### Holopin Badges:-
-[![An image of @mnamesujit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mnamesujit)](https://holopin.io/@mnamesujit)
+[![An image of @mr-bhanushali03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mr-bhanushali03)](https://holopin.io/@mr-bhanushali03)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnamesujit&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)                                                                                                                            
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-bhanushali03&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)                                                                                                                            
 
 ## 😂 Here is a random joke that'll make you laugh!                                                                            <p>
   <img src="https://readme-jokes.vercel.app/api" alt="" width="100%">
