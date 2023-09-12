@@ -100,12 +100,6 @@
 ### Holopin Badges:-
 [![An image of @mr-bhanushali03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mr-bhanushali03)](https://holopin.io/@mr-bhanushali03)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-bhanushali03&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)                                                                                                                            
-
-## 😂 Here is a random joke that'll make you laugh!                                                                            <p>
-  <img src="https://readme-jokes.vercel.app/api" alt="" width="100%">
-</p>
-
-<a href="https://www.buymeacoffee.com/mnamesujit"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-bhanushali03&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)                    
 
 [![](https://visitcount.itsvg.in/api?id=mnamesujit&icon=5&color=1)](https://visitcount.itsvg.in)
