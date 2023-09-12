@@ -95,8 +95,6 @@
 
 <!-- ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical) -->
 
-[![Sujit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-bhanushali03&theme=radical)](https://github.com/mr-bhanushali03/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bhanushali03&show_icons=true&theme=radical)](https://github.com/mr-bhanushali03)
 
 ### Holopin Badges:-
