@@ -1,24 +1,137 @@
-# Hi, I'm Bhanushali 👋
+[![wakatime](https://wakatime.com/badge/user/c3296bbc-989d-48a1-bfb0-752d952f7151.svg)](https://wakatime.com/@c3296bbc-989d-48a1-bfb0-752d952f7151)
 
-![Visitor Count](https://profile-counter.glitch.me/mr-bhanushali03/count.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&weight=700&color=04d361&size=35&center=false&vCenter=true&width=1000&lines=Welcome!!+:%29;Hello,+My+name+is+Keval+Bhanushali;Aka+Nucleus...;)](https://git.io/typing-svg)
 
-I'm a passionate developer who loves to code and contribute to open-source projects. Here you'll find some of my work and interests.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&pause=1000&color=04D361&repeat=false&width=435&lines=A+Little+Bit+More+About+Me%3A-)](https://git.io/typing-svg)
+```js
+const Sujit = {
+    code: ["JavaScript", "Python", "TypeScript", "C++"],
+    askMeAbout: ["web dev", "tech", "dsa", "linux"],
+    technologies: {
+        frontEnd:{
+            js: ["ReactJs",],
+            css: ["Scss", "Tailwind CSS"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: [" "," "],
+        },
+        devOps: [" "," "],
+        dataBases: ["mongo", "mariaDB"],
+        misc: ["Firebase", "Socket.IO",]
+    },
+    currentFocus: "Backend Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+<!-- architecture: ["Progressive web applications", "Single page applications"], -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto: mrbhanushali03@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="mnameskeval"
+    />
+  </a>
+  <a href="https://wa.me/8347840284" target="_blank">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="+91-8347840284"
+    />
+  </a>
+  <a href="https://github.com/mr-bhanushali03" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+      alt="mnamekeval"
+    />
+  </a>
+  <a href="https://github.com/mr-bhanushali03" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="mnamekeval"
+    />
+  </a>
+  <a href="https://linkedin.com/in/keval-bhanushali-627799243" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="mnamekeval"
+  /></a>
+</p>
 
-- 🌱 I’m currently learning [Your Current Learning]
-- 👯 I’m looking to collaborate on [Your Preferred Collaboration Projects]
-- 🤔 I’m looking for help with [Your Preferred Help Topics]
-- 💬 Ask me about [Your Preferred Topics]
-- 📫 How to reach me: [Your Contact Information]
 
-## GitHub Stats
+<h3>My Dev. Environment</h3>
+<p>
+    <img src = "https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt = "neovim">
+    <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt = "vs-code">
+    <img src = "https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt = "bash-shell">
+    <img src = "https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt = "bash-shell">
+    <img src = "https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt = "arch-linux">
+    
+</p>
 
-![Bhanushali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp">
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python">
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-css">
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express">
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+    </a>                                                                                                                  
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
+    </a>                                                                                                                     
+</p>
 
-## Top Languages
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bhanushali03&layout=compact&theme=radical)
+<!-- ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnamesujit&show_icons=true&theme=radical) -->
 
-## Recent Activity
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnamesujit&theme=radical)](https://git.io/streak-stats)
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+[![Sujit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mnamesujit&theme=radical)](https://github.com/mnamesujit/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnamesujit&show_icons=true&theme=radical)](https://github.com/mnamesujit)
+
+### Holopin Badges:-
+[![An image of @mnamesujit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mnamesujit)](https://holopin.io/@mnamesujit)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnamesujit&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)                                                                                                                            
+
+## 😂 Here is a random joke that'll make you laugh!                                                                            <p>
+  <img src="https://readme-jokes.vercel.app/api" alt="" width="100%">
+</p>
+
+<a href="https://www.buymeacoffee.com/mnamesujit"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+[![](https://visitcount.itsvg.in/api?id=mnamesujit&icon=5&color=1)](https://visitcount.itsvg.in)
