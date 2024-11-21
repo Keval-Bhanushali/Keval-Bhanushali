@@ -11,16 +11,10 @@
       alt="mnameskeval"
     />
   </a>
-  <a href="https://wa.me/8347840284" target="_blank">
+  <a href="https://wa.me/7567565368" target="_blank">
     <img
       src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
       alt="+91-8347840284"
-    />
-  </a>
-  <a href="https://github.com/Keval-Bhanushali" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="mnamekeval"
     />
   </a>
   <a href="https://github.com/Keval-Bhanushali" target="_blank">
