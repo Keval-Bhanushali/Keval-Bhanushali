@@ -17,13 +17,13 @@
       alt="+91-8347840284"
     />
   </a>
-  <a href="https://github.com/mr-bhanushali03" target="_blank">
+  <a href="https://github.com/Keval-Bhanushali" target="_blank">
     <img
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="mnamekeval"
     />
   </a>
-  <a href="https://github.com/mr-bhanushali03" target="_blank">
+  <a href="https://github.com/Keval-Bhanushali" target="_blank">
     <img
       src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="mnamekeval"
@@ -93,16 +93,16 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- ![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical) -->
+<!-- ![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keval-Bhanushali&show_icons=true&theme=radical) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bhanushali03&show_icons=true&theme=radical)](https://github.com/mr-bhanushali03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keval-Bhanushali&show_icons=true&theme=radical)](https://github.com/Keval-Bhanushali)
 
 ### github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-bhanushali03&show_icons=true&theme=radical&title_color=04d361&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keval-Bhanushali&show_icons=true&theme=radical&title_color=04d361&count_private=true&include_all_commits=true)
 
 ### Holopin Badges:-
-[![An image of @mr-bhanushali03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mr-bhanushali03)](https://holopin.io/@mr-bhanushali03)
+[![An image of @Keval-Bhanushali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Keval-Bhanushali)](https://holopin.io/@Keval-Bhanushali)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-bhanushali03&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keval-Bhanushali&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)  
 
 [![](https://visitcount.itsvg.in/api?id=mnamesujit&icon=5&color=1)](https://visitcount.itsvg.in)
