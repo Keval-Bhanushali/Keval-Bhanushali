@@ -8,6 +8,36 @@
 
 ---
 
+## ✨ Visitors Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Keval-Bhanushali}/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Keval-Bhanushali&color=FF6F61" alt="Profile Views" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Keval-Bhanushali&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Stats & Top Skills
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keval-Bhanushali&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Keval-Bhanushali GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keval-Bhanushali&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🔥 GitHub Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keval-Bhanushali&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
 ## ✨ About Me
 
 - 🎓 MCA (AI/ML) Student @ **ADYPU Pune**
@@ -29,19 +59,19 @@
 ## 📂 Top Projects  
 
 - 🧾 [**Order Management**](https://github.com/Keval-Bhanushali/Order-Managment)  
-  **Laravel** • Customers, products, orders & REST APIs (Latest 2025) [attached_file:1]
+  **Laravel** • Customers, products, orders & REST APIs (Latest 2025)
 
 - 💰 [**Billing Software**](https://github.com/Keval-Bhanushali/Billing-Software)  
-  **PHP & MySQL** • Invoice generation & financial reporting [attached_file:1]
+  **PHP & MySQL** • Invoice generation & financial reporting
 
 - 🎓 [**SkillGro**](https://github.com/Keval-Bhanushali/SkillGro)  
-  **Laravel** • Learning platform with Eloquent ORM & quizzes [attached_file:1]
+  **Laravel** • Learning platform with Eloquent ORM & quizzes
 
 - 📋 [**Multiple To-Do List**](https://github.com/Keval-Bhanushali/Multiple-To-Do-List)  
-  **Python** • Multi-user task manager with real-time updates [attached_file:2]
+  **Python** • Multi-user task manager with real-time updates
 
 - 🛒 [**React E-Commerce**](https://github.com/Keval-Bhanushali/React-E-Commerce)  
-  **React.js** • Modern responsive online store frontend [attached_file:1]
+  **React.js** • Modern responsive online store frontend
 
 ---
 
@@ -56,6 +86,9 @@
   </a>
   <a href="https://linkedin.com/in/keval-bhanushali03">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://github.com/Keval-Bhanushali">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
